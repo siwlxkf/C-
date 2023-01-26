@@ -1,0 +1,8 @@
+#include <stdio.h>
+
+int main(void)
+{
+	float num1 = 5.789;
+	float num2 = 3.24 + 5.12;
+	return 0;
+}
