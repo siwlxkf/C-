@@ -11,7 +11,7 @@ int main(void)
 	printf("입력된 실수 %f \n", num1); 
 
 	printf("실수 입력2(e 표기법으로): ");
-	scanf("%1f", &num2);
+	scanf("%lf", &num2);
 	printf("입력된 실수 %f \n", num2);
 
 	printf("실수 입력3(e 표기법으로): ");
